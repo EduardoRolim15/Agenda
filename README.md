@@ -1,3 +1,3 @@
-# BLOG
+# Agenda
 
-Blog criado no curso de Python
+Projeto criado no curso de Python
